@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ALOK-Yeager
+- 👋 Hi, I’m @ALOKIT MISHRA 
 - 👀 I’m interested in ...WEB3.0
-- 🌱 I’m currently learning ...C++,JS,PHYTHON
+- 🌱 I’m currently learning ...MERN STACK
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...alokitmishra9899@gmail.com
 
 <!---
 ALOK-Yeager/ALOK-Yeager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
