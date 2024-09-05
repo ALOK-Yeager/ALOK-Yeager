@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALOKIT MISHRA</h1>
-<h3 align="center">LEARNING MERN STACK DEVLOPER</h3>
+<h3 align="center">LEARNING DEVLOPER</h3>
 
 - 🔭 I’m currently working on **UBER CLONE**
 
